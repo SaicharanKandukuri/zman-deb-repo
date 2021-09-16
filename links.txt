@@ -1,0 +1,13 @@
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland-protocols_1.21_aarch64.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland-protocols_1.21_arm.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland-protocols_1.21_i686.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland-protocols_1.21_x86_64.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland_1.19.0_aarch64.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland_1.19.0_arm.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland_1.19.0_i686.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/libwayland_1.19.0_x86_64.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/xwayland_1.20.5-6_aarch64.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/xwayland_1.20.5-6_arm.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/xwayland_1.20.5-6_i686.deb
+https://github.com/suhan-paradkar/tewmux-disabled/releases/download/xwayland/xwayland_1.20.5-6_x86_64.deb
+

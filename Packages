@@ -1,0 +1,168 @@
+Package: libwayland
+Version: 1.19.0
+Architecture: i686
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 812
+Depends: libandroid-support, libffi, libxml2, libexpat
+Filename: ./libwayland_1.19.0_i686.deb
+Size: 108356
+MD5sum: eea07729742540a94de1a54eb4f0c778
+SHA1: 63496772746dd12761905c80be063dc6110d0fb8
+SHA256: 6c515c3a108ca7afcf2326fead8f7a66c553c7be07f7074a89113030164dedc5
+Homepage: https://wayland.freedesktop.org/
+Description: Wayland protocol library
+
+Package: libwayland
+Version: 1.19.0
+Architecture: aarch64
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 840
+Depends: libandroid-support, libffi, libxml2, libexpat
+Filename: ./libwayland_1.19.0_aarch64.deb
+Size: 107868
+MD5sum: e5234ef14ed01e22e606d9ddfd203df9
+SHA1: c9f6ceb8a70ab360fe4fa9c65991312a4a346c55
+SHA256: ae3b2d0054d87baabb1823a8b8849926b008bd63a310779311c4175ab4886591
+Homepage: https://wayland.freedesktop.org/
+Description: Wayland protocol library
+
+Package: libwayland
+Version: 1.19.0
+Architecture: arm
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 808
+Depends: libandroid-support, libffi, libxml2, libexpat
+Filename: ./libwayland_1.19.0_arm.deb
+Size: 107716
+MD5sum: 76b6b08b21aee16ad9fd3acdc374051d
+SHA1: 6077cef1d84796ffe0bbbbd6bf03b9255f3850fc
+SHA256: e2c9eca532ce51ac223d582e159e5a930da43e93937c28b6bf61a65565243083
+Homepage: https://wayland.freedesktop.org/
+Description: Wayland protocol library
+
+Package: libwayland
+Version: 1.19.0
+Architecture: x86_64
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 856
+Depends: libandroid-support, libffi, libxml2, libexpat
+Filename: ./libwayland_1.19.0_x86_64.deb
+Size: 116934
+MD5sum: 1dd93958415a8966dec002433a17ed9a
+SHA1: de7386345bed32a725ad3dd7478de910de237054
+SHA256: acd99100ee5a42f49939640d3f1d0f3f20cbdfdb35e65e057ef95427b8cbb265
+Homepage: https://wayland.freedesktop.org/
+Description: Wayland protocol library
+
+Package: libwayland-protocols
+Version: 1.21
+Architecture: x86_64
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 632
+Depends: libandroid-support
+Filename: ./libwayland-protocols_1.21_x86_64.deb
+Size: 60360
+MD5sum: b91056f22998d3862d77ce44e96173bc
+SHA1: 63d227531cf9780703d0f032cf6acc2adc1ec466
+SHA256: 67775b651fddcdba8beefda013742380e6836abcb58291a8a30830534d145d37
+Homepage: https://wayland.freedesktop.org/
+Description: Wayland protocols library
+
+Package: libwayland-protocols
+Version: 1.21
+Architecture: arm
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 632
+Depends: libandroid-support
+Filename: ./libwayland-protocols_1.21_arm.deb
+Size: 60350
+MD5sum: 96ab6b2785a11566622f5dafc4adfa22
+SHA1: cad38d18e88a024aafa662d13f3a9ffeb57bf58f
+SHA256: 4aff95548215811446d904fd88302911d2848cf15c7acb4cef818a77c48e4a39
+Homepage: https://wayland.freedesktop.org/
+Description: Wayland protocols library
+
+Package: libwayland-protocols
+Version: 1.21
+Architecture: i686
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 632
+Depends: libandroid-support
+Filename: ./libwayland-protocols_1.21_i686.deb
+Size: 60340
+MD5sum: 8b9413bff6d0f06e7ade55694386246c
+SHA1: 16b11f3a58267a9d369257fc09fe1b5abd2e761b
+SHA256: fa6913f81fb7bbfa6e85013328a993a60c1de72ea298a0a943bbe831b76745c1
+Homepage: https://wayland.freedesktop.org/
+Description: Wayland protocols library
+
+Package: libwayland-protocols
+Version: 1.21
+Architecture: aarch64
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 632
+Depends: libandroid-support
+Filename: ./libwayland-protocols_1.21_aarch64.deb
+Size: 60386
+MD5sum: 2d6546cf07867cf49d3ebf5111296d23
+SHA1: 7d0cd193090689436fb9cdeac54bd7513592fb58
+SHA256: 720ddccf13999b4578834b8073ab583351e709633cfc24f230113d49f1a8de36
+Homepage: https://wayland.freedesktop.org/
+Description: Wayland protocols library
+
+Package: xwayland
+Version: 1.20.5-6
+Architecture: aarch64
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 1540
+Depends: libandroid-shmem, libdrm, libpciaccess, libpixman, libx11, libxau, libxfont2, libxinerama, libxkbfile, libxshmfence, mesa, openssl, xkeyboard-config, xorg-xkbcomp, libwayland, libwayland-protocols, libepoxy
+Filename: ./xwayland_1.20.5-6_aarch64.deb
+Size: 551762
+MD5sum: 9cc3c01d7ac9fdf9519c18e7734b9c4c
+SHA1: da2d7f77b93f53100c3d1a5b6491794ebda45989
+SHA256: fd084fdb75bce00a6973f5dc784ed2f87567b368cd2b67f984feffd5c2cd775b
+Homepage: https://xorg.freedesktop.org/wiki/
+Description: Wayland X11 server
+
+Package: xwayland
+Version: 1.20.5-6
+Architecture: x86_64
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 1808
+Depends: libandroid-shmem, libdrm, libpciaccess, libpixman, libx11, libxau, libxfont2, libxinerama, libxkbfile, libxshmfence, mesa, openssl, xkeyboard-config, xorg-xkbcomp, libwayland, libwayland-protocols, libepoxy
+Filename: ./xwayland_1.20.5-6_x86_64.deb
+Size: 665330
+MD5sum: 545869638124dbc7a31428bf76f7b366
+SHA1: 41f06023c471a929ae357d6be49f04e10db4dec6
+SHA256: 45474347698cdef4bee5a59dc0d136c1cadfed377666420e0c9ab9553f67e5e4
+Homepage: https://xorg.freedesktop.org/wiki/
+Description: Wayland X11 server
+
+Package: xwayland
+Version: 1.20.5-6
+Architecture: arm
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 1212
+Depends: libandroid-shmem, libdrm, libpciaccess, libpixman, libx11, libxau, libxfont2, libxinerama, libxkbfile, libxshmfence, mesa, openssl, xkeyboard-config, xorg-xkbcomp, libwayland, libwayland-protocols, libepoxy
+Filename: ./xwayland_1.20.5-6_arm.deb
+Size: 546370
+MD5sum: e978c6623454f761277ad5e281e08fb0
+SHA1: 5567a3c0a24fd927e17f5833a9880c508cc01832
+SHA256: 82429931f7cc2e8debd1a3329c986f9490aeeac80a16970352be4660399ad8f8
+Homepage: https://xorg.freedesktop.org/wiki/
+Description: Wayland X11 server
+
+Package: xwayland
+Version: 1.20.5-6
+Architecture: i686
+Maintainer: Leonid Pliushch <leonid.pliushch@gmail.com>
+Installed-Size: 1532
+Depends: libandroid-shmem, libdrm, libpciaccess, libpixman, libx11, libxau, libxfont2, libxinerama, libxkbfile, libxshmfence, mesa, openssl, xkeyboard-config, xorg-xkbcomp, libwayland, libwayland-protocols, libepoxy
+Filename: ./xwayland_1.20.5-6_i686.deb
+Size: 594508
+MD5sum: 00dad23c3507b6be5c722c1a8dd45c42
+SHA1: ac37126af7bc6d93862e7f949a903f087dfe3101
+SHA256: 96684119d8841e6da2f92e552994c2f58d55c214eb1da54a50f089d69b374bb8
+Homepage: https://xorg.freedesktop.org/wiki/
+Description: Wayland X11 server
+
